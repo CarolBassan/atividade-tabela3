@@ -1,0 +1,16 @@
+body{
+    background: hsl(332, 54%, 67%);
+
+}
+td{
+    width: 60px;
+    height: 50px;
+    background: #ffff;
+    border: 2px solid hsl(332, 54%, 67%);
+}
+td{
+    width: 60px;
+    height: 50px;
+    background: #ffff;
+    border: 2px solid hsl(332, 54%, 67%);
+}
